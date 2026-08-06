@@ -1,0 +1,46 @@
+<svg width="1280" height="320" viewBox="0 0 1280 320" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Profile banner">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#0f172a"/>
+      <stop offset="50%" stop-color="#1d4ed8"/>
+      <stop offset="100%" stop-color="#0ea5e9"/>
+    </linearGradient>
+    <linearGradient id="blob1" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#22d3ee" stop-opacity="0.55"/>
+      <stop offset="100%" stop-color="#38bdf8" stop-opacity="0.05"/>
+    </linearGradient>
+    <linearGradient id="blob2" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#a5f3fc" stop-opacity="0.45"/>
+      <stop offset="100%" stop-color="#0ea5e9" stop-opacity="0.08"/>
+    </linearGradient>
+    <filter id="blur" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="26"/>
+    </filter>
+  </defs>
+
+  <rect width="1280" height="320" fill="url(#bg)"/>
+
+  <g filter="url(#blur)">
+    <circle cx="210" cy="58" r="170" fill="url(#blob1)"/>
+    <circle cx="1060" cy="268" r="220" fill="url(#blob2)"/>
+  </g>
+
+  <g fill="none" stroke="rgba(255,255,255,0.20)">
+    <path d="M0 250 C180 160, 320 340, 520 230 C700 130, 900 290, 1280 170" stroke-width="2.2"/>
+    <path d="M0 274 C170 184, 340 360, 540 252 C760 138, 940 312, 1280 196" stroke-width="1.6"/>
+  </g>
+
+  <text x="72" y="142" font-family="Segoe UI, Tahoma, sans-serif" font-size="50" font-weight="700" fill="#f8fafc">
+    Build. Break. Learn. Repeat.
+  </text>
+  <text x="72" y="188" font-family="Segoe UI, Tahoma, sans-serif" font-size="26" fill="#e0f2fe">
+    Turning ideas into clean, useful software.
+  </text>
+
+  <g transform="translate(72, 226)">
+    <rect x="0" y="0" width="240" height="42" rx="21" fill="rgba(255,255,255,0.14)" stroke="rgba(255,255,255,0.22)"/>
+    <text x="120" y="27" text-anchor="middle" font-family="Segoe UI, Tahoma, sans-serif" font-size="18" fill="#f8fafc">
+      Always shipping
+    </text>
+  </g>
+</svg>
