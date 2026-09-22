@@ -57,7 +57,6 @@
 </p>
 
 ## Let us connect
-- Portfolio: https://YOUR_DOMAIN
 - LinkedIn: https://www.linkedin.com/in/tahansari6254/
 - Email: tahansari6254@gmail.com
 
