@@ -63,12 +63,3 @@
 
 ---
 
-## Quick setup
-1. Rename this repository to exactly your GitHub username.
-2. Replace remaining placeholders:
-  - Fun fact
-  - REPO_1 / REPO_2 / REPO_3 (actual repo links for SudharManch, Tarang, Telegram Escrow Bot)
-  - Portfolio domain (or remove that line if you don't have one)
-3. Add an `assets/banner.svg` file to the repo, or remove the banner `<img>` at the top if you don't have one.
-4. Commit and push.
-5. Check your profile page: https://github.com/imTaha76
