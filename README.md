@@ -28,7 +28,7 @@
 - Fun fact: ADD_A_SHORT_FUN_FACT.
 
 ## Tech I use
-<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mongodb,firebase,aws,git,github,vscode,netlify&perline=13" alt="Tech stack icons" height="120" /> </p>
+<p align="center"> <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,html,css,mongodb,firebase,aws,git,github,vscode,netlify&perline=13" alt="Tech stack icons" width="120" /> </p>
 
 ## Highlights
 - Built: **SudharManch**, a civic issue reporting platform with geolocation tagging and a role-based admin dashboard (Smart India Hackathon MVP).
