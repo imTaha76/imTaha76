@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/banner.png" alt="Profile banner" width="100%" />
+  <img src="/banner.png" alt="Profile banner" width="100%" />
 </p>
 
 <h1 align="center">Hi, I am Taha Ansari</h1>
