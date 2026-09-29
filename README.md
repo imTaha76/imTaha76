@@ -44,15 +44,8 @@
 | [Telegram Escrow Bot](https://github.com/imTaha76/REPO_3) | Security-focused bot for trusted peer-to-peer transactions with accept/reject flows and an admin panel | Node.js |
 
 ## GitHub stats
-<p>
-  <img height="165" src="https://github-readme-stats.athul.dev/api?username=imTaha76&show_icons=true&theme=transparent&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.athul.dev/api/top-langs/?username=imTaha76&layout=compact&theme=transparent&hide_border=true" alt="Top languages" />
-</p>
+<p align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=imTaha76&theme=github_dark" alt="GitHub stats radar" /> </p>
 
-## Activity graph
-<p>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=imTaha76&bg_color=ffffff00&color=0ea5e9&line=1d4ed8&point=0f172a&area=true&hide_border=true" alt="Activity graph" />
-</p>
 
 ## Let us connect
 - LinkedIn: https://www.linkedin.com/in/tahansari6254/
