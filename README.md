@@ -39,8 +39,8 @@
 ## Featured projects
 | Project | What it does | Stack |
 |---|---|---|
-| [](https://github.com/imTaha76/REPO_1) | Civic issue reporting platform — citizens report/track/escalate local issues with geolocation tagging and a role-based admin dashboard | React, Node.js, REST APIs |
-| [](https://github.com/imTaha76/REPO_2) | Steel plant workflow tool with delay prediction, real-time analytics dashboard, and process automation | React, Node.js, APIs |
+| [Civic Issues Platform](https://github.com/imTaha76/REPO_1) | Civic issue reporting platform — citizens report/track/escalate local issues with geolocation tagging and a role-based admin dashboard | React, Node.js, REST APIs |
+| [Logistics Optimization](https://github.com/imTaha76/REPO_2) | Steel plant workflow tool with delay prediction, real-time analytics dashboard, and process automation | React, Node.js, APIs |
 | [Telegram Escrow Bot](https://github.com/imTaha76/REPO_3) | Security-focused bot for trusted peer-to-peer transactions with accept/reject flows and an admin panel | Node.js |
 
 ## GitHub stats
